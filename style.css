@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+.cardbody {
+    background-color: #fff;
+}
+
+.cardimg {
+    width: 25rem;
+    height: auto;
+}
+
+.lefticons {
+    display: flex;
+    flex-direction: row;
+    font-size: 2rem;
+}
